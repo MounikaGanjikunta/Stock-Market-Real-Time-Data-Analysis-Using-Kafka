@@ -5,6 +5,7 @@ Executed an End-To-End Data Engineering Project on Real-Time Stock Market Data u
 Used different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
 Architecture
+![Screenshot](KafkaProjectArchitecture.png)
 
 
 
