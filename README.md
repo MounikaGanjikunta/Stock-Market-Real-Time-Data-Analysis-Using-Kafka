@@ -9,25 +9,7 @@ Architecture
 
 ![Screenshot](KafkaProjectArchitecture.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Here's a demo of the project: (https://drive.google.com/file/d/1Zljhbeq4U9NUuyeMLBtSBzY1s9Z6FOiu/view?usp=sharing)
 
 
 
